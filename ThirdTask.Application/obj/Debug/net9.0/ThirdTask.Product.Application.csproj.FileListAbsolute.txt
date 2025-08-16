@@ -1,0 +1,12 @@
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\bin\Debug\net9.0\ThirdTask.Product.Application.deps.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\bin\Debug\net9.0\ThirdTask.Product.Application.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\bin\Debug\net9.0\ThirdTask.Product.Application.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ThirdTask.Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ThirdTask.Product.Application.AssemblyInfoInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ThirdTask.Product.Application.AssemblyInfo.cs
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ThirdTask.Product.Application.csproj.CoreCompileInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ThirdTask.Product.Application.sourcelink.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ThirdTask.Product.Application.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\refint\ThirdTask.Product.Application.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ThirdTask.Product.Application.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Application\obj\Debug\net9.0\ref\ThirdTask.Product.Application.dll

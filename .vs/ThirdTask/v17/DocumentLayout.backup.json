@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B88D9-9266-426D-B1A0-6E9521DB33C9}|ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\thirdtask.auth.application\\features\\mediator\\queries\\getcheckappuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B88D9-9266-426D-B1A0-6E9521DB33C9}|ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|solutionrelative:thirdtask.auth.application\\features\\mediator\\queries\\getcheckappuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3B88D9-9266-426D-B1A0-6E9521DB33C9}|ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\thirdtask.auth.application\\tools\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3B88D9-9266-426D-B1A0-6E9521DB33C9}|ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|solutionrelative:thirdtask.auth.application\\tools\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCA1F83-7434-4E38-A58D-D60E7A391F16}|ThirdTask.Auth.WebApi\\ThirdTask.Auth.WebApi.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\thirdtask.auth.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFCA1F83-7434-4E38-A58D-D60E7A391F16}|ThirdTask.Auth.WebApi\\ThirdTask.Auth.WebApi.csproj|solutionrelative:thirdtask.auth.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCheckAppUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\ThirdTask.Auth.Application\\Features\\Mediator\\Queries\\GetCheckAppUserQuery.cs",
+              "RelativeDocumentMoniker": "ThirdTask.Auth.Application\\Features\\Mediator\\Queries\\GetCheckAppUserQuery.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\ThirdTask.Auth.Application\\Features\\Mediator\\Queries\\GetCheckAppUserQuery.cs",
+              "RelativeToolTip": "ThirdTask.Auth.Application\\Features\\Mediator\\Queries\\GetCheckAppUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T21:22:36.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\ThirdTask.Auth.Application\\Tools\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ThirdTask.Auth.Application\\Tools\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\ThirdTask.Auth.Application\\Tools\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "ThirdTask.Auth.Application\\Tools\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T21:18:49.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\ThirdTask.Auth.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ThirdTask.Auth.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\ThirdTask.Auth.WebApi\\appsettings.json",
+              "RelativeToolTip": "ThirdTask.Auth.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T20:52:04.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

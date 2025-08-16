@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ThirdTask.WebUI/1.0.0": {
+        "runtime": {
+          "ThirdTask.WebUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThirdTask.WebUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

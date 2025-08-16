@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7om073c9Jf9DGK8kbOEWzSnUgm9Kf3nGqUZoe3ZXWpg=",
+  "Source": "ThirdTask.OcelotGateway",
+  "BasePath": "_content/ThirdTask.OcelotGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

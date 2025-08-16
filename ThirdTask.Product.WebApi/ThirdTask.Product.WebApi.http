@@ -1,0 +1,6 @@
+@ThirdTask.Product.WebApi_HostAddress = http://localhost:5218
+
+GET {{ThirdTask.Product.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

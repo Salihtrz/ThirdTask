@@ -1,0 +1,12 @@
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\bin\Debug\net9.0\ThirdTask.Product.Domain.deps.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\bin\Debug\net9.0\ThirdTask.Product.Domain.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\bin\Debug\net9.0\ThirdTask.Product.Domain.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ThirdTask.Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ThirdTask.Product.Domain.AssemblyInfoInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ThirdTask.Product.Domain.AssemblyInfo.cs
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ThirdTask.Product.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ThirdTask.Product.Domain.sourcelink.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ThirdTask.Product.Domain.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\refint\ThirdTask.Product.Domain.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ThirdTask.Product.Domain.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Domain\obj\Debug\net9.0\ref\ThirdTask.Product.Domain.dll

@@ -1,0 +1,12 @@
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\bin\Debug\net9.0\ThirdTask.Product.Persistence.deps.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\bin\Debug\net9.0\ThirdTask.Product.Persistence.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\bin\Debug\net9.0\ThirdTask.Product.Persistence.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ThirdTask.Product.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ThirdTask.Product.Persistence.AssemblyInfoInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ThirdTask.Product.Persistence.AssemblyInfo.cs
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ThirdTask.Product.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ThirdTask.Product.Persistence.sourcelink.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ThirdTask.Product.Persistence.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\refint\ThirdTask.Product.Persistence.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ThirdTask.Product.Persistence.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Product.Persistence\obj\Debug\net9.0\ref\ThirdTask.Product.Persistence.dll
