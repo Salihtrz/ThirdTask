@@ -17,10 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ThirdTask.Auth.Application\ThirdTask.Auth.Application.csproj" />
     <ProjectReference Include="..\ThirdTask.Auth.Persistence\ThirdTask.Auth.Persistence.csproj" />
   </ItemGroup>

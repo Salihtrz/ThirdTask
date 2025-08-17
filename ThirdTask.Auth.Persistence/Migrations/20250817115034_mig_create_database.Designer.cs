@@ -12,8 +12,8 @@ using ThirdTask.Auth.Persistence.Context;
 namespace ThirdTask.Auth.Persistence.Migrations
 {
     [DbContext(typeof(authContext))]
-    [Migration("20250816211332_mig_create_authdb")]
-    partial class mig_create_authdb
+    [Migration("20250817115034_mig_create_database")]
+    partial class mig_create_database
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

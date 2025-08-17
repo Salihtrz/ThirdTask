@@ -1784,7 +1784,9 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "MediatR": "13.0.0",
-          "System.IdentityModel.Tokens.Jwt": "8.14.0"
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.8",
+          "System.IdentityModel.Tokens.Jwt": "8.14.0",
+          "ThirdTask.Auth.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ThirdTask.Auth.Application.dll": {}
@@ -1815,6 +1817,7 @@
           "Microsoft.EntityFrameworkCore": "9.0.8",
           "Npgsql": "9.0.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
+          "ThirdTask.Auth.Application": "1.0.0",
           "ThirdTask.Auth.Domain": "1.0.0"
         },
         "compile": {

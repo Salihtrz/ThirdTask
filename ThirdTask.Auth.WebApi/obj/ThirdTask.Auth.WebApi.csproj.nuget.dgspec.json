@@ -33,7 +33,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\ThirdTask.Auth.Domain\\ThirdTask.Auth.Domain.csproj": {
+                "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\ThirdTask.Auth.Domain\\ThirdTask.Auth.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -55,6 +59,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[13.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -188,6 +196,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj": {
+                "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj"
+              },
               "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\ThirdTask.Auth.Domain\\ThirdTask.Auth.Domain.csproj": {
                 "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\ThirdTask.Auth.Domain\\ThirdTask.Auth.Domain.csproj"
               }

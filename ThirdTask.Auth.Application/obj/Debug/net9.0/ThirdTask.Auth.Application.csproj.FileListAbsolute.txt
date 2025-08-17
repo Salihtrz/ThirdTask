@@ -11,3 +11,6 @@ C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Th
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Auth.Application\obj\Debug\net9.0\ThirdTask.Auth.Application.pdb
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Auth.Application\obj\Debug\net9.0\ref\ThirdTask.Auth.Application.dll
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Auth.Application\obj\Debug\net9.0\ThirdTask.Auth.Application.csproj.AssemblyReference.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Auth.Application\bin\Debug\net9.0\ThirdTask.Auth.Domain.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Auth.Application\bin\Debug\net9.0\ThirdTask.Auth.Domain.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.Auth.Application\obj\Debug\net9.0\ThirdTas.4D7EBE41.Up2Date

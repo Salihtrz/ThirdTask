@@ -8,20 +8,21 @@ using System.Text;
 using System.Threading.Tasks;
 using ThirdTask.Auth.Application.Dtos;
 using ThirdTask.Auth.Application.Features.Mediator.Results;
+using ThirdTask.Auth.Application.Interfaces;
 
-namespace ThirdTask.Auth.Application.Tools
+namespace ThirdTask.Auth.Application.Services
 {
-    public class JwtTokenGenerator
+    public class JwtTokenGenerator : IJwtTokenGenerator
     {
-        public static TokenResponseDto GenerateToken(GetCheckAppUserQueryResult result)
+        public TokenResponseDto GenerateToken(GetCheckAppUserQueryResult result)
         {
             var claims = new List<Claim>();
             if (!string.IsNullOrWhiteSpace(result.Role))
                 claims.Add(new Claim(ClaimTypes.Role, result.Role));
 
-                claims.Add(new Claim(ClaimTypes.NameIdentifier, result.Id.ToString()));
-            if(!string.IsNullOrWhiteSpace(result.Username))
-                claims.Add(new Claim("Username",result.Username));
+            claims.Add(new Claim(ClaimTypes.NameIdentifier, result.Id.ToString()));
+            if (!string.IsNullOrWhiteSpace(result.Username))
+                claims.Add(new Claim("Username", result.Username));
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtTokenDefaults.Key));
 
@@ -29,9 +30,9 @@ namespace ThirdTask.Auth.Application.Tools
 
             var expireDate = DateTime.UtcNow.AddDays(JwtTokenDefaults.Expire);
 
-            JwtSecurityToken token = new JwtSecurityToken(issuer:JwtTokenDefaults.ValidIssuer,
-                audience:JwtTokenDefaults.ValidAudience, claims:claims, notBefore:DateTime.UtcNow,
-                expires:expireDate, signingCredentials:signinCredentials);
+            JwtSecurityToken token = new JwtSecurityToken(issuer: JwtTokenDefaults.ValidIssuer,
+                audience: JwtTokenDefaults.ValidAudience, claims: claims, notBefore: DateTime.UtcNow,
+                expires: expireDate, signingCredentials: signinCredentials);
 
             JwtSecurityTokenHandler tokenHandler = new JwtSecurityTokenHandler();
             return new TokenResponseDto(tokenHandler.WriteToken(token), expireDate);

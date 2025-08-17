@@ -7,7 +7,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace ThirdTask.Auth.Persistence.Migrations
 {
     /// <inheritdoc />
-    public partial class mig_create_authdb : Migration
+    public partial class mig_create_database : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
