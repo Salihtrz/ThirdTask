@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "All",
+    "Projects": [
+      {
+        "Path": "ApiGateway\\ThirdTask.OcelotGateway\\ThirdTask.OcelotGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Auth\\Presentation\\ThirdTask.Auth.WebApi\\ThirdTask.Auth.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Product\\Presentation\\ThirdTask.Products.WebApi\\ThirdTask.Product.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Frontends\\ThirdTask.WebUI\\ThirdTask.WebUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

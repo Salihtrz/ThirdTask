@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Dashboard\html\dist\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\Dashboard\html\forms\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\Dashboard\html\pages\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\Dashboard\html\tables\et-line-font\fonts\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.14.0" />
+  </ItemGroup>
+
+</Project>

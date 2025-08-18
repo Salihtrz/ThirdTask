@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y/WOKlVUJoiKgiJ6alivRoWTse7g2U2d8rwxTBoKB7E=",
+  "Source": "ThirdTask.Product.WebApi",
+  "BasePath": "_content/ThirdTask.Product.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
