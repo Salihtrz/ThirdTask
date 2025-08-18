@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Domain\\ThirdTask.Product.Domain.csproj",
-      "projectName": "ThirdTask.Product.Domain",
-      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Domain\\ThirdTask.Product.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Domain\\ThirdTask.Products.Domain.csproj",
+      "projectName": "ThirdTask.Products.Domain",
+      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Domain\\ThirdTask.Products.Domain.csproj",
       "packagesPath": "C:\\Users\\muazc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Domain\\obj\\",
       "projectStyle": "PackageReference",

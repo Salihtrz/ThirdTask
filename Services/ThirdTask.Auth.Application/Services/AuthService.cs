@@ -1,14 +1,10 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ThirdTask.Auth.Application.Dtos;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Identity;
 using ThirdTask.Auth.Application.Features.Mediator.Results;
 using ThirdTask.Auth.Application.Interfaces;
 using ThirdTask.Auth.Domain.Entities;
+using ThirdTask.Jwt.Dtos;
+using ThirdTask.Jwt.Interfaces;
 
 namespace ThirdTask.Auth.Application.Services
 {
@@ -16,11 +12,13 @@ namespace ThirdTask.Auth.Application.Services
     {
         private readonly UserManager<AppUser> _userManager;
         private readonly IJwtTokenGenerator _jwtGenerator;
+        private readonly IMapper _mapper;
 
-        public AuthService(UserManager<AppUser> userManager, IJwtTokenGenerator jwtGenerator)
+        public AuthService(UserManager<AppUser> userManager, IJwtTokenGenerator jwtGenerator, IMapper mapper)
         {
             _userManager = userManager;
             _jwtGenerator = jwtGenerator;
+            _mapper = mapper;
         }
         public async Task<TokenResponseDto> LoginAsync(string username, string password)
         {
@@ -38,7 +36,16 @@ namespace ThirdTask.Auth.Application.Services
                 Username = user.UserName,
                 Role = roles.FirstOrDefault()
             };
-            var accessToken = _jwtGenerator.GenerateToken(result);
+
+            var value = new CheckAppUserDto
+            {
+                Id = result.Id,
+                Username = result.Username,
+                IsExist = result.IsExist,
+                Role = result.Role
+            };
+
+            var accessToken = _jwtGenerator.GenerateToken(value);
             
             var refreshToken = Guid.NewGuid().ToString();
             var refreshTokenExpireDate = DateTime.UtcNow.AddDays(3);
@@ -70,7 +77,15 @@ namespace ThirdTask.Auth.Application.Services
                 Role = roles.FirstOrDefault()
             };
 
-            var accessToken = _jwtGenerator.GenerateToken(result);
+            var value = new CheckAppUserDto
+            {
+                Id = result.Id,
+                Username = result.Username,
+                IsExist = result.IsExist,
+                Role = result.Role
+            };
+
+            var accessToken = _jwtGenerator.GenerateToken(value);
 
             var newRefreshToken = Guid.NewGuid().ToString();
             var newRefreshTokenExpireDate = DateTime.UtcNow.AddDays(3);
@@ -108,7 +123,7 @@ namespace ThirdTask.Auth.Application.Services
             }
             else
             {
-                await _userManager.AddToRoleAsync(user, "Reader");
+                await _userManager.AddToRoleAsync(user, "Writer");
             }
         }
     }

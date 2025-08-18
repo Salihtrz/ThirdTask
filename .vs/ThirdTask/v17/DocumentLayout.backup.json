@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B279207-52BA-4BF5-9D26-10936288954C}|Services\\ThirdTask.Auth.WebApi\\ThirdTask.Auth.WebApi.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\services\\thirdtask.auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B279207-52BA-4BF5-9D26-10936288954C}|Services\\ThirdTask.Auth.WebApi\\ThirdTask.Auth.WebApi.csproj|solutionrelative:services\\thirdtask.auth.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8E23F7-3F78-4564-8178-9A2BB1587493}|Services\\ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\services\\thirdtask.auth.application\\rabbitmq\\productcreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8E23F7-3F78-4564-8178-9A2BB1587493}|Services\\ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|solutionrelative:services\\thirdtask.auth.application\\rabbitmq\\productcreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}|Services\\ThirdTask.Product.Application\\ThirdTask.Products.Application.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\services\\thirdtask.product.application\\rabbitmq\\productcreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}|Services\\ThirdTask.Product.Application\\ThirdTask.Products.Application.csproj|solutionrelative:services\\thirdtask.product.application\\rabbitmq\\productcreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}|Services\\ThirdTask.Product.Application\\ThirdTask.Products.Application.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\services\\thirdtask.product.application\\features\\cqrs\\handlers\\producthandlers\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}|Services\\ThirdTask.Product.Application\\ThirdTask.Products.Application.csproj|solutionrelative:services\\thirdtask.product.application\\features\\cqrs\\handlers\\producthandlers\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}|Services\\ThirdTask.Product.Application\\ThirdTask.Products.Application.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\services\\thirdtask.product.application\\rabbitmq\\rabbitmqeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}|Services\\ThirdTask.Product.Application\\ThirdTask.Products.Application.csproj|solutionrelative:services\\thirdtask.product.application\\rabbitmq\\rabbitmqeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198781D7-45FD-441D-9793-879C734BE1F8}|Services\\ThirdTask.Product.WebApi\\ThirdTask.Product.WebApi.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\services\\thirdtask.product.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198781D7-45FD-441D-9793-879C734BE1F8}|Services\\ThirdTask.Product.WebApi\\ThirdTask.Product.WebApi.csproj|solutionrelative:services\\thirdtask.product.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCreatedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Auth.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "RelativeDocumentMoniker": "Services\\ThirdTask.Auth.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Auth.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "RelativeToolTip": "Services\\ThirdTask.Auth.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:39:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Auth.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\ThirdTask.Auth.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Auth.WebApi\\Program.cs",
+              "RelativeToolTip": "Services\\ThirdTask.Auth.WebApi\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:25:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Services\\ThirdTask.Product.WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Services\\ThirdTask.Product.WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:51:37.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCreatedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "RelativeDocumentMoniker": "Services\\ThirdTask.Product.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "RelativeToolTip": "Services\\ThirdTask.Product.Application\\RabbitMQ\\ProductCreatedEventConsumer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:14:25.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMqEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Application\\RabbitMQ\\RabbitMqEventPublisher.cs",
+              "RelativeDocumentMoniker": "Services\\ThirdTask.Product.Application\\RabbitMQ\\RabbitMqEventPublisher.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Application\\RabbitMQ\\RabbitMqEventPublisher.cs",
+              "RelativeToolTip": "Services\\ThirdTask.Product.Application\\RabbitMQ\\RabbitMqEventPublisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:35:33.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\ThirdTask.Product.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\ThirdTask.Product.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Services\\ThirdTask.Product.Application\\Features\\CQRS\\Handlers\\ProductHandlers\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:21:58.295Z",
+              "EditorCaption": ""
             }
           ]
         }

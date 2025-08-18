@@ -29,8 +29,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.OcelotGateway", "ApiGateway\ThirdTask.OcelotGateway\ThirdTask.OcelotGateway.csproj", "{09C50C5C-B8FA-4293-93E0-EE478B6EBC0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.DtoLayer", "Frontends\ThirdTask.DtoLayer\ThirdTask.DtoLayer.csproj", "{8C8655E1-0D42-4852-B78C-88FF618BDBBE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.WebUI", "Frontends\ThirdTask.WebUI\ThirdTask.WebUI.csproj", "{F3033796-1BC7-490F-9F6B-B1BE18725AAC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Auth.Application", "Services\ThirdTask.Auth.Application\ThirdTask.Auth.Application.csproj", "{0D8E23F7-3F78-4564-8178-9A2BB1587493}"
@@ -41,13 +39,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Auth.Persistence"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Auth.WebApi", "Services\ThirdTask.Auth.WebApi\ThirdTask.Auth.WebApi.csproj", "{1B279207-52BA-4BF5-9D26-10936288954C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Product.Application", "Services\ThirdTask.Product.Application\ThirdTask.Product.Application.csproj", "{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Products.Application", "Services\ThirdTask.Product.Application\ThirdTask.Products.Application.csproj", "{8A1A2EAB-ECF4-4D37-BDA9-6262F5EDE750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Product.Domain", "Services\ThirdTask.Product.Domain\ThirdTask.Product.Domain.csproj", "{8968ACDC-70C7-48C3-91A0-5090E94CAF17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Products.Domain", "Services\ThirdTask.Product.Domain\ThirdTask.Products.Domain.csproj", "{8968ACDC-70C7-48C3-91A0-5090E94CAF17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Product.Persistence", "Services\ThirdTask.Product.Persistence\ThirdTask.Product.Persistence.csproj", "{C9C33A95-DA69-4CCB-A9CF-5A3B98EEA442}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Products.Persistence", "Services\ThirdTask.Product.Persistence\ThirdTask.Products.Persistence.csproj", "{C9C33A95-DA69-4CCB-A9CF-5A3B98EEA442}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Product.WebApi", "Services\ThirdTask.Product.WebApi\ThirdTask.Product.WebApi.csproj", "{198781D7-45FD-441D-9793-879C734BE1F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JsonWebToken", "JsonWebToken", "{A4929870-03DF-459D-B4C6-0810C1719A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Jwt", "JsonWebToken\ThirdTask.Jwt\ThirdTask.Jwt.csproj", "{17102BEC-A784-4D63-BE00-8DB532B0EA31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{59C598E8-3958-4B75-A83C-117833022875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Events", "Events\ThirdTask.Events\ThirdTask.Events.csproj", "{BC08A35D-E815-4EF1-BD0E-93DF9024EDCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +65,6 @@ Global
 		{09C50C5C-B8FA-4293-93E0-EE478B6EBC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09C50C5C-B8FA-4293-93E0-EE478B6EBC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09C50C5C-B8FA-4293-93E0-EE478B6EBC0E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8C8655E1-0D42-4852-B78C-88FF618BDBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C8655E1-0D42-4852-B78C-88FF618BDBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C8655E1-0D42-4852-B78C-88FF618BDBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C8655E1-0D42-4852-B78C-88FF618BDBBE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F3033796-1BC7-490F-9F6B-B1BE18725AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F3033796-1BC7-490F-9F6B-B1BE18725AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3033796-1BC7-490F-9F6B-B1BE18725AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -99,6 +101,14 @@ Global
 		{198781D7-45FD-441D-9793-879C734BE1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{198781D7-45FD-441D-9793-879C734BE1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{198781D7-45FD-441D-9793-879C734BE1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17102BEC-A784-4D63-BE00-8DB532B0EA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17102BEC-A784-4D63-BE00-8DB532B0EA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17102BEC-A784-4D63-BE00-8DB532B0EA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17102BEC-A784-4D63-BE00-8DB532B0EA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC08A35D-E815-4EF1-BD0E-93DF9024EDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC08A35D-E815-4EF1-BD0E-93DF9024EDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC08A35D-E815-4EF1-BD0E-93DF9024EDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC08A35D-E815-4EF1-BD0E-93DF9024EDCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,7 +124,6 @@ Global
 		{81151461-AFDB-40CB-98CF-23B509476EDB} = {C17753C0-7669-4707-BE76-8028627834DB}
 		{DA3DAB91-FFEB-47D6-85C6-1ADC6561EFC4} = {C17753C0-7669-4707-BE76-8028627834DB}
 		{09C50C5C-B8FA-4293-93E0-EE478B6EBC0E} = {0C509BE9-D1EB-4E0E-B663-C4341C34C200}
-		{8C8655E1-0D42-4852-B78C-88FF618BDBBE} = {F5CA0629-F73B-4EFC-88E6-BE2FD81AE0A7}
 		{F3033796-1BC7-490F-9F6B-B1BE18725AAC} = {F5CA0629-F73B-4EFC-88E6-BE2FD81AE0A7}
 		{0D8E23F7-3F78-4564-8178-9A2BB1587493} = {CB8AECBD-6287-4288-A075-CB61C2FE991B}
 		{3B271DA7-955C-4115-B2B6-16B2E0CA391B} = {CB8AECBD-6287-4288-A075-CB61C2FE991B}
@@ -124,5 +133,7 @@ Global
 		{8968ACDC-70C7-48C3-91A0-5090E94CAF17} = {891F64EB-83CA-430A-8CF3-631D9F6122C1}
 		{C9C33A95-DA69-4CCB-A9CF-5A3B98EEA442} = {5602B77C-F231-4088-AA61-2C6E1DD78AE8}
 		{198781D7-45FD-441D-9793-879C734BE1F8} = {8202D629-776D-4F95-9AF9-248E13E8419D}
+		{17102BEC-A784-4D63-BE00-8DB532B0EA31} = {A4929870-03DF-459D-B4C6-0810C1719A2B}
+		{BC08A35D-E815-4EF1-BD0E-93DF9024EDCA} = {59C598E8-3958-4B75-A83C-117833022875}
 	EndGlobalSection
 EndGlobal

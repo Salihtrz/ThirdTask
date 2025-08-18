@@ -23,9 +23,9 @@ namespace ThirdTask.Auth.WebApi.Controllers
             return Ok(token);
         }
         [HttpPost("refresh")]
-        public async Task<IActionResult> Refresh(string refreshToken)
+        public async Task<IActionResult> Refresh(RefreshTokenRequestDto request)
         {
-            var token = await _authService.RefreshTokenAsync(refreshToken);
+            var token = await _authService.RefreshTokenAsync(request.RefreshToken);
             return Ok(token);
         }
     }

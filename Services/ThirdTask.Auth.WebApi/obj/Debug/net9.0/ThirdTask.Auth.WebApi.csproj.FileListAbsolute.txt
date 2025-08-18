@@ -312,3 +312,9 @@ C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Se
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\obj\Debug\net9.0\ThirdTask.Auth.WebApi.pdb
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\obj\Debug\net9.0\ThirdTask.Auth.WebApi.genruntimeconfig.cache
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\obj\Debug\net9.0\ref\ThirdTask.Auth.WebApi.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\bin\Debug\net9.0\ThirdTask.Jwt.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\bin\Debug\net9.0\ThirdTask.Jwt.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\bin\Debug\net9.0\ThirdTask.Events.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.WebApi\bin\Debug\net9.0\ThirdTask.Events.pdb

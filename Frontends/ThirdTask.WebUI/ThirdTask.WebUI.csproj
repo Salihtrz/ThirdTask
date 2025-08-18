@@ -6,4 +6,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Dashboard\html\dist\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\Dashboard\html\forms\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\Dashboard\html\pages\et-line-font\fonts\.DS_Store" />
+    <None Include="wwwroot\Dashboard\html\tables\et-line-font\fonts\.DS_Store" />
+  </ItemGroup>
+
 </Project>

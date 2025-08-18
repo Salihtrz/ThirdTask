@@ -30,3 +30,7 @@ C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Se
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.Application\obj\Debug\net9.0\refint\ThirdTask.Auth.Application.dll
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.Application\obj\Debug\net9.0\ThirdTask.Auth.Application.pdb
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.Application\obj\Debug\net9.0\ref\ThirdTask.Auth.Application.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.Application\bin\Debug\net9.0\ThirdTask.Jwt.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.Application\bin\Debug\net9.0\ThirdTask.Jwt.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.Application\bin\Debug\net9.0\ThirdTask.Events.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\ThirdTask.Auth.Application\bin\Debug\net9.0\ThirdTask.Events.pdb

@@ -2,18 +2,19 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using System.Reflection;
 using System.Text;
 using ThirdTask.Auth.Application.Interfaces;
+using ThirdTask.Auth.Application.RabbitMQ;
 using ThirdTask.Auth.Application.Services;
 using ThirdTask.Auth.Domain.Entities;
 using ThirdTask.Auth.Persistence.Context;
+using ThirdTask.Jwt.Interfaces;
+using ThirdTask.Jwt.Tools;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
-
-
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
@@ -26,6 +27,8 @@ builder.Services.AddAuthorization(options =>
 {
     options.AddPolicy("ProductUpdateWriter", policy => policy.RequireRole("Writer"));
 });
+
+builder.Services.AddAutoMapper(cfg => cfg.AddMaps(Assembly.GetExecutingAssembly()));
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
@@ -45,6 +48,7 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IRoleService, RoleService>();
 builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<authContext>().AddDefaultTokenProviders();
+builder.Services.AddHostedService<ProductCreatedEventConsumer>();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

@@ -24,9 +24,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "refreshToken",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "request",
+        "Type": "ThirdTask.Auth.Application.Dtos.RefreshTokenRequestDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

@@ -1,66 +1,181 @@
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\js\site.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation\LICENSE.md
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\additional-methods.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\css\site.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.min.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.min.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\favicon.ico
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\layouts.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\js\ovio.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\register.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\js\site.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\js\bootstrap.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\css\style.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\basic.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\js\bootstrap.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\js\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\login.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\weather\weather-icons.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\css\site.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\weather\weather-icons-wind.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\font-awesome\fonts\FontAwesome.otf
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\favicon.ico
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 wwwroot\css\site.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.css.map
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css.map
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css.map
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css
+wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css.map
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.eot
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.svg
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.ttf
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.woff
+wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.woff2
+wwwroot\Dashboard\html\bootstrap\js\bootstrap.js
+wwwroot\Dashboard\html\bootstrap\js\bootstrap.min.js
+wwwroot\Dashboard\html\dist\css\style.css
+wwwroot\Dashboard\html\dist\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\dist\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\dist\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\dist\js\jquery.min.js
+wwwroot\Dashboard\html\dist\js\ovio.js
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.eot
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.svg
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.ttf
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.woff
+wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.woff2
+wwwroot\Dashboard\html\dist\weather\weather-icons.min.css
+wwwroot\Dashboard\html\dist\weather\weather-icons-wind.min.css
+wwwroot\Dashboard\html\forms\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\forms\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\forms\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\forms\layouts.html
+wwwroot\Dashboard\html\logo\SecondTaskLogo.png
+wwwroot\Dashboard\html\pages\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\pages\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\pages\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Dashboard\html\pages\login.html
+wwwroot\Dashboard\html\pages\register.html
+wwwroot\Dashboard\html\tables\basic.html
+wwwroot\Dashboard\html\tables\et-line-font\et-line-font.css
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.eot
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.svg
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.ttf
+wwwroot\Dashboard\html\tables\et-line-font\fonts\et-line.woff
+wwwroot\Dashboard\html\tables\font-awesome\css\font-awesome.min.css
+wwwroot\Dashboard\html\tables\font-awesome\fonts\FontAwesome.otf
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.woff
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
