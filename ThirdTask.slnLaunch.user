@@ -7,11 +7,15 @@
         "Action": "Start"
       },
       {
-        "Path": "Services\\ThirdTask.Auth.WebApi\\ThirdTask.Auth.WebApi.csproj",
+        "Path": "Services\\Auth\\Presentation\\ThirdTask.Auth.WebApi\\ThirdTask.Auth.WebApi.csproj",
         "Action": "Start"
       },
       {
-        "Path": "Services\\ThirdTask.Product.WebApi\\ThirdTask.Product.WebApi.csproj",
+        "Path": "Services\\Product\\Presentation\\ThirdTask.Products.WebApi\\ThirdTask.Product.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Frontends\\ThirdTask.WebUI\\ThirdTask.WebUI.csproj",
         "Action": "Start"
       }
     ]

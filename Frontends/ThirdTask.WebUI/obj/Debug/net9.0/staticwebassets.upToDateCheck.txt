@@ -1,35 +1,55 @@
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\theme.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\datatables-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\et-line-font\et-line-font.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\bootstrap.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\font-awesome\css\font-awesome.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\dashboard-demo.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\layouts.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\fonts\fa-solid-900.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\bootstrap.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\js\waves.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\bootstrap.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\font-awesome\fonts\FontAwesome.otf
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\js\ovio.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\google-chart-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\images\500-error.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\quilljs-demo.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\bootstrap.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\font-awesome\fonts\FontAwesome.otf
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\chartjs-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\js\theme.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\auth-500.html
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\font-awesome\fonts\FontAwesome.otf
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\et-line-font\et-line-font.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\jquery.validate.js
@@ -39,14 +59,20 @@ C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Fr
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\js\bootstrap.min.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\css\style.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\basic.html
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\fileuploads-demo.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\font-awesome\css\font-awesome.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\knob-chart-demo.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\calendar-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\weather\font\weathericons-regular-webfont.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
@@ -54,11 +80,15 @@ C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Fr
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\et-line-font\et-line-font.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\font-awesome\css\font-awesome.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\icons.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\js\bootstrap.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\icons.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\js\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\login.html
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
@@ -71,34 +101,60 @@ C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Fr
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\css\site.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\theme.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\theme.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\weather\weather-icons-wind.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\icons.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\css\bootstrap-theme.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\sparklines-chart-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\validation-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\auth-404.html
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\icons.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\bootstrap\fonts\glyphicons-halflings-regular.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\vectormap-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\fonts\dripicons-v2.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\gmaps-demo.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\et-line-font\et-line-font.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\fonts\fa-brands-400.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\dist\et-line-font\fonts\et-line.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\font-awesome\css\font-awesome.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\sweet-alert-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\morris-chart-demo.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\fonts\fa-regular-400.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\fonts\feather.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\tables\font-awesome\fonts\FontAwesome.otf
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\forms\et-line-font\fonts\et-line.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\css\theme.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\mask-demo.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\js\bootstrap.bundle.min.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\pages\advanced-plugins-demo.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\js\simplebar.min.js
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\images\maintenance.svg
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\images\404-error.svg
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\images\favicon.ico
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\favicon.ico
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\js\jquery.min.js
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Frontends\ThirdTask.WebUI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 wwwroot\css\site.css
@@ -151,6 +207,236 @@ wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.ttf
 wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.woff
 wwwroot\Dashboard\html\forms\layouts.html
 wwwroot\Dashboard\html\logo\SecondTaskLogo.png
+wwwroot\Dashboard\html\pages\assets\css\bootstrap.css
+wwwroot\Dashboard\html\pages\assets\css\bootstrap.css.map
+wwwroot\Dashboard\html\pages\assets\css\bootstrap.min.css
+wwwroot\Dashboard\html\pages\assets\css\bootstrap.min.css.map
+wwwroot\Dashboard\html\pages\assets\css\icons.css
+wwwroot\Dashboard\html\pages\assets\css\icons.css.map
+wwwroot\Dashboard\html\pages\assets\css\icons.min.css
+wwwroot\Dashboard\html\pages\assets\css\icons.min.css.map
+wwwroot\Dashboard\html\pages\assets\css\theme.css
+wwwroot\Dashboard\html\pages\assets\css\theme.css.map
+wwwroot\Dashboard\html\pages\assets\css\theme.min.css
+wwwroot\Dashboard\html\pages\assets\css\theme.min.css.map
+wwwroot\Dashboard\html\pages\assets\fonts\dripicons-v2.eot
+wwwroot\Dashboard\html\pages\assets\fonts\dripicons-v2.svg
+wwwroot\Dashboard\html\pages\assets\fonts\dripicons-v2.ttf
+wwwroot\Dashboard\html\pages\assets\fonts\dripicons-v2.woff
+wwwroot\Dashboard\html\pages\assets\fonts\fa-brands-400.eot
+wwwroot\Dashboard\html\pages\assets\fonts\fa-brands-400.svg
+wwwroot\Dashboard\html\pages\assets\fonts\fa-brands-400.ttf
+wwwroot\Dashboard\html\pages\assets\fonts\fa-brands-400.woff
+wwwroot\Dashboard\html\pages\assets\fonts\fa-brands-400.woff2
+wwwroot\Dashboard\html\pages\assets\fonts\fa-regular-400.eot
+wwwroot\Dashboard\html\pages\assets\fonts\fa-regular-400.svg
+wwwroot\Dashboard\html\pages\assets\fonts\fa-regular-400.ttf
+wwwroot\Dashboard\html\pages\assets\fonts\fa-regular-400.woff
+wwwroot\Dashboard\html\pages\assets\fonts\fa-regular-400.woff2
+wwwroot\Dashboard\html\pages\assets\fonts\fa-solid-900.eot
+wwwroot\Dashboard\html\pages\assets\fonts\fa-solid-900.svg
+wwwroot\Dashboard\html\pages\assets\fonts\fa-solid-900.ttf
+wwwroot\Dashboard\html\pages\assets\fonts\fa-solid-900.woff
+wwwroot\Dashboard\html\pages\assets\fonts\fa-solid-900.woff2
+wwwroot\Dashboard\html\pages\assets\fonts\feather.svg
+wwwroot\Dashboard\html\pages\assets\fonts\feather.ttf
+wwwroot\Dashboard\html\pages\assets\fonts\feather.woff
+wwwroot\Dashboard\html\pages\assets\fonts\materialdesignicons-webfont.eot
+wwwroot\Dashboard\html\pages\assets\fonts\materialdesignicons-webfont.ttf
+wwwroot\Dashboard\html\pages\assets\fonts\materialdesignicons-webfont.woff
+wwwroot\Dashboard\html\pages\assets\fonts\materialdesignicons-webfont.woff2
+wwwroot\Dashboard\html\pages\assets\images\404-error.svg
+wwwroot\Dashboard\html\pages\assets\images\500-error.svg
+wwwroot\Dashboard\html\pages\assets\images\bg-login.jpg
+wwwroot\Dashboard\html\pages\assets\images\bg-register.jpg
+wwwroot\Dashboard\html\pages\assets\images\favicon.ico
+wwwroot\Dashboard\html\pages\assets\images\flags\french.jpg
+wwwroot\Dashboard\html\pages\assets\images\flags\germany.jpg
+wwwroot\Dashboard\html\pages\assets\images\flags\italy.jpg
+wwwroot\Dashboard\html\pages\assets\images\flags\russia.jpg
+wwwroot\Dashboard\html\pages\assets\images\flags\spain.jpg
+wwwroot\Dashboard\html\pages\assets\images\flags\us.jpg
+wwwroot\Dashboard\html\pages\assets\images\maintenance.svg
+wwwroot\Dashboard\html\pages\assets\images\media\sm-1.jpg
+wwwroot\Dashboard\html\pages\assets\images\media\sm-2.jpg
+wwwroot\Dashboard\html\pages\assets\images\media\sm-3.jpg
+wwwroot\Dashboard\html\pages\assets\images\media\sm-4.jpg
+wwwroot\Dashboard\html\pages\assets\images\media\sm-5.jpg
+wwwroot\Dashboard\html\pages\assets\images\media\sm-6.jpg
+wwwroot\Dashboard\html\pages\assets\images\media\sm-7.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-1.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-10.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-2.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-3.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-4.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-5.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-6.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-7.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-8.jpg
+wwwroot\Dashboard\html\pages\assets\images\users\avatar-9.jpg
+wwwroot\Dashboard\html\pages\assets\js\bootstrap.bundle.min.js
+wwwroot\Dashboard\html\pages\assets\js\jquery.min.js
+wwwroot\Dashboard\html\pages\assets\js\simplebar.min.js
+wwwroot\Dashboard\html\pages\assets\js\theme.js
+wwwroot\Dashboard\html\pages\assets\js\waves.js
+wwwroot\Dashboard\html\pages\assets\pages\advanced-plugins-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\calendar-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\chartjs-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\dashboard-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\datatables-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\fileuploads-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\gmaps-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\google-chart-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\knob-chart-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\mask-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\morris-chart-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\quilljs-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\sparklines-chart-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\sweet-alert-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\validation-demo.js
+wwwroot\Dashboard\html\pages\assets\pages\vectormap-demo.js
+wwwroot\Dashboard\html\pages\assets\scss\_variables.scss
+wwwroot\Dashboard\html\pages\assets\scss\bootstrap.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_avatar.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_badge.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_breadcrumb.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_buttons.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_card.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_demos.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_dropdown.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_helper.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_nav.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_pagination.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_print.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_reboot.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_table.scss
+wwwroot\Dashboard\html\pages\assets\scss\components\_waves.scss
+wwwroot\Dashboard\html\pages\assets\scss\icons.scss
+wwwroot\Dashboard\html\pages\assets\scss\pages\_auth.scss
+wwwroot\Dashboard\html\pages\assets\scss\pages\_pricing.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_calendar.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_custom-scrollbar.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_datatable.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_datepicker.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_daterange.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_dripicons.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_feather.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_fontawesome.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_maps.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_materialdesignicons.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_morris.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_select2.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_slimscroll.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_sparkline-chart.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_sweetalert.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\_waves.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_alert.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_badge.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_breadcrumb.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_button-group.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_buttons.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_card.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_carousel.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_close.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_code.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_custom-forms.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_dropdown.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_forms.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_functions.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_grid.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_images.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_input-group.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_jumbotron.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_list-group.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_media.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_mixins.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_modal.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_nav.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_navbar.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_pagination.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_popover.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_print.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_progress.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_reboot.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_root.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_spinners.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_tables.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_toasts.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_tooltip.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_transitions.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_type.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_utilities.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\_variables.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\bootstrap.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\bootstrap-grid.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\bootstrap-reboot.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_alert.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_background-variant.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_badge.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_border-radius.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_box-shadow.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_breakpoints.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_buttons.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_caret.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_clearfix.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_deprecate.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_float.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_forms.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_gradients.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_grid.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_grid-framework.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_hover.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_image.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_list-group.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_lists.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_nav-divider.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_pagination.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_reset-text.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_resize.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_screen-reader.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_size.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_table-row.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_text-emphasis.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_text-hide.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_text-truncate.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_transition.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\mixins\_visibility.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_align.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_background.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_borders.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_clearfix.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_display.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_embed.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_flex.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_float.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_overflow.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_position.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_screenreaders.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_shadows.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_sizing.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_spacing.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_stretched-link.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_text.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\utilities\_visibility.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\bootstrap\vendor\_rfs.scss
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.css
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.css.map
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.min.css
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap.min.css.map
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.css
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.css.map
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.min.css
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-grid.min.css.map
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.css
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.css.map
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.min.css
+wwwroot\Dashboard\html\pages\assets\scss\plugins\css\bootstrap-reboot.min.css.map
+wwwroot\Dashboard\html\pages\assets\scss\structure\_footer.scss
+wwwroot\Dashboard\html\pages\assets\scss\structure\_header.scss
+wwwroot\Dashboard\html\pages\assets\scss\structure\_menu.scss
+wwwroot\Dashboard\html\pages\assets\scss\theme.scss
+wwwroot\Dashboard\html\pages\auth-404.html
+wwwroot\Dashboard\html\pages\auth-500.html
 wwwroot\Dashboard\html\pages\et-line-font\et-line-font.css
 wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.eot
 wwwroot\Dashboard\html\pages\et-line-font\fonts\et-line.svg

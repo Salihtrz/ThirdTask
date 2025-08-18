@@ -13,4 +13,9 @@
     <None Include="wwwroot\Dashboard\html\tables\et-line-font\fonts\.DS_Store" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.14.0" />
+  </ItemGroup>
+
 </Project>

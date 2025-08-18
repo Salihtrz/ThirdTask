@@ -1,4 +1,5 @@
-﻿@{
+﻿@model CheckAppUserModel
+@{
     Layout = null;
 }
 <!DOCTYPE html>
@@ -41,14 +42,14 @@
                     <section>
                         <div class="form-group has-feedback">
                             <label class="control-label">Username</label>
-                            <input class="form-control" placeholder="Username" type="text">
+                            <input class="form-control" asp-for="Username" placeholder="Username" type="text">
                             <span class="fa fa-envelope form-control-feedback" aria-hidden="true"></span>
                         </div>
                     </section>
                     <section>
                         <div class="form-group has-feedback">
                             <label class="control-label">Password</label>
-                            <input class="form-control" placeholder="Password" type="password">
+                            <input class="form-control" asp-for="Password" placeholder="Password" type="password">
                             <span class="fa fa-lock form-control-feedback" aria-hidden="true"></span>
                         </div>
                     </section>

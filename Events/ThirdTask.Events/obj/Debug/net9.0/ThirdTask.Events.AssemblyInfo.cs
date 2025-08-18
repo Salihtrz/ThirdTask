@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThirdTask.Events")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6be5d611bc85c15d0156737704ba04cca44e646")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a52f63e42e0a752d69b5705deb55e89e1097dee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThirdTask.Events")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThirdTask.Events")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

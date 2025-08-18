@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThirdTask.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6be5d611bc85c15d0156737704ba04cca44e646")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bcb13cd52143e6bbbf2843ef9ec86a762474ba3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThirdTask.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThirdTask.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
