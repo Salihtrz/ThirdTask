@@ -1,10 +1,6 @@
 ﻿using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading.Tasks;
 using ThirdTask.Products.Application.Features.CQRS.Queries.ProductQueries;
 using ThirdTask.Products.Application.Features.CQRS.Results.ProductResults;
@@ -17,42 +13,52 @@ namespace ThirdTask.Products.Application.Features.CQRS.Handlers.ProductHandlers
     {
         private readonly IRepository<Product> _repository;
         private readonly IDistributedCache _cache;
+        private readonly ILogService _logService;
 
-        public GetProductByIdQueryHandler(IRepository<Product> repository, IDistributedCache cache)
+        public GetProductByIdQueryHandler(IRepository<Product> repository,IDistributedCache cache,ILogService logService)
         {
             _repository = repository;
             _cache = cache;
+            _logService = logService;
         }
+
         public async Task<GetProductByIdQueryResult> Handle(GetProductByIdQuery query)
         {
             string cacheKey = $"getProductById:{query.Id}";
-            GetProductByIdQueryResult result;
 
             var cachedData = await _cache.GetStringAsync(cacheKey);
             if (!string.IsNullOrEmpty(cachedData))
             {
-                //Console.WriteLine($"CACHE HIT: Ürün {query.Id} Redis'ten geldi.");
-                result = JsonConvert.DeserializeObject<GetProductByIdQueryResult>(cachedData);
-                return result;
+                await _logService.LogAsync("ProductService", "INFO", $"CACHE HIT: Product {query.Id} retrieved from Redis.");
+                return JsonConvert.DeserializeObject<GetProductByIdQueryResult>(cachedData);
             }
-            //Console.WriteLine($"CACHE MISS: Ürün {query.Id} veritabanından çekildi.");
-            var values = await _repository.GetByIdAsync(query.Id);
 
-            result = new GetProductByIdQueryResult
+            await _logService.LogAsync("ProductService", "WARNING", $"CACHE MISS: Product {query.Id} will be retrieved from database.");
+
+            var product = await _repository.GetByIdAsync(query.Id);
+            if (product == null)
             {
-                Brand = values.Brand,
-                Description = values.Description,
-                Id = values.Id,
-                Price = values.Price,
-                ProductName = values.ProductName,
-                Status = values.Status
+                await _logService.LogAsync("ProductService", "ERROR", $"Product {query.Id} not found in database.");
+                return null;
+            }
+
+            var result = new GetProductByIdQueryResult
+            {
+                Id = product.Id,
+                ProductName = product.ProductName,
+                Brand = product.Brand,
+                Description = product.Description,
+                Price = product.Price,
+                Status = product.Status
             };
 
-            var serializeData = JsonConvert.SerializeObject(result);
-            await _cache.SetStringAsync(cacheKey, serializeData, new DistributedCacheEntryOptions
+            var serializedResult = JsonConvert.SerializeObject(result);
+            await _cache.SetStringAsync(cacheKey, serializedResult, new DistributedCacheEntryOptions
             {
                 AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(3)
             });
+
+            await _logService.LogAsync("ProductService", "INFO", $"Product {query.Id} added to cache.");
             return result;
         }
     }

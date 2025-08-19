@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Products.Persiste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.Product.WebApi", "Services\Product\Presentation\ThirdTask.Products.WebApi\ThirdTask.Product.WebApi.csproj", "{285684C0-F5EA-4878-B941-0A11F97781FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdTask.LogService", "Services\Log\ThirdTask.LogService\ThirdTask.LogService.csproj", "{90FD14D3-0506-468E-9CA9-1687A61EFAB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,10 @@ Global
 		{285684C0-F5EA-4878-B941-0A11F97781FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{285684C0-F5EA-4878-B941-0A11F97781FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{285684C0-F5EA-4878-B941-0A11F97781FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90FD14D3-0506-468E-9CA9-1687A61EFAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FD14D3-0506-468E-9CA9-1687A61EFAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FD14D3-0506-468E-9CA9-1687A61EFAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FD14D3-0506-468E-9CA9-1687A61EFAB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,5 +141,6 @@ Global
 		{D72B4021-0EFB-40A5-90AF-B7136B79987A} = {891F64EB-83CA-430A-8CF3-631D9F6122C1}
 		{8ECDAC7B-4C01-4187-A2C2-FE6AEEA04FC9} = {5602B77C-F231-4088-AA61-2C6E1DD78AE8}
 		{285684C0-F5EA-4878-B941-0A11F97781FD} = {8202D629-776D-4F95-9AF9-248E13E8419D}
+		{90FD14D3-0506-468E-9CA9-1687A61EFAB1} = {64AF7BB4-66B8-43CC-88C4-52D143DBE216}
 	EndGlobalSection
 EndGlobal

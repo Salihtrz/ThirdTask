@@ -17,6 +17,10 @@
       {
         "Path": "Frontends\\ThirdTask.WebUI\\ThirdTask.WebUI.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Services\\Log\\ThirdTask.LogService\\ThirdTask.LogService.csproj",
+        "Action": "Start"
       }
     ]
   }

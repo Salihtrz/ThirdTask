@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ThirdTask.LogService.Controllers.LogsController",
+    "Method": "CreateLog",
+    "RelativePath": "api/Logs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logEntry",
+        "Type": "ThirdTask.LogService.Models.LogEntry",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

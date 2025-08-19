@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThirdTask.Product.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a52f63e42e0a752d69b5705deb55e89e1097dee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e159bf209e86e81c70b0d9a1cbab682f5e6bdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThirdTask.Product.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThirdTask.Product.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

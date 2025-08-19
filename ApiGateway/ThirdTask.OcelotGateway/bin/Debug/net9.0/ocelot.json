@@ -59,6 +59,23 @@
         "AuthenticationProviderKey": "Bearer",
         "AllowedScopes": []
       }
+    },
+    // Log
+    {
+      "DownstreamPathTemplate": "/api/logs",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6012
+        }
+      ],
+      "UpstreamPathTemplate": "/services/logs",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {}
     }
-  ]
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:6000"
+  }
 }

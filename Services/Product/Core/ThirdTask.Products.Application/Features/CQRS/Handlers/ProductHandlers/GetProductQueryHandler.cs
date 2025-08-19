@@ -3,8 +3,6 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading.Tasks;
 using ThirdTask.Products.Application.Features.CQRS.Results.ProductResults;
 using ThirdTask.Products.Application.Interfaces;
@@ -16,47 +14,59 @@ namespace ThirdTask.Products.Application.Features.CQRS.Handlers.ProductHandlers
     {
         private readonly IRepository<Product> _repository;
         private readonly IDistributedCache _cache;
+        private readonly ILogService _logService;
 
-        public GetProductQueryHandler(IRepository<Product> repository, IDistributedCache cache)
+        public GetProductQueryHandler(IRepository<Product> repository,IDistributedCache cache,ILogService logService)
         {
             _repository = repository;
             _cache = cache;
+            _logService = logService;
         }
+
         public async Task<List<GetProductQueryResult>> Handle()
         {
             string cacheKey = "getProductList";
-            List<GetProductQueryResult> result;
 
+            // CACHE kontrolü
             var cachedData = await _cache.GetStringAsync(cacheKey);
             if (!string.IsNullOrEmpty(cachedData))
             {
-                //Console.WriteLine("CACHE HIT: Ürün listesi Redis'ten geldi.");
-                result = JsonConvert.DeserializeObject<List<GetProductQueryResult>>(cachedData);
-                return result;
+                await _logService.LogAsync("ProductService", "INFO", "CACHE HIT: Product list fetched from Redis.");
+                return JsonConvert.DeserializeObject<List<GetProductQueryResult>>(cachedData);
             }
 
-            //Console.WriteLine("CACHE MISS: Ürün listesi veritabanından çekildi.");
-            var values = await _repository.GetAllAsync();
+            await _logService.LogAsync("ProductService", "WARNING", "CACHE MISS: Product list will be fetched from database.");
 
-            result = values
+            // Veritabanından ürünlerin alınması
+            var products = await _repository.GetAllAsync();
+            if (products == null || !products.Any())
+            {
+                await _logService.LogAsync("ProductService", "ERROR", "No products found in the database.");
+                return new List<GetProductQueryResult>();
+            }
+
+            var result = products
                 .OrderBy(x => x.Id)
                 .Select(x => new GetProductQueryResult
                 {
+                    Id = x.Id,
+                    ProductName = x.ProductName,
                     Brand = x.Brand,
                     Description = x.Description,
-                    ProductName = x.ProductName,
-                    Id = x.Id,
                     Price = x.Price,
                     Status = x.Status
-                }).ToList();
+                })
+                .ToList();
 
-            var serializeData = JsonConvert.SerializeObject(result);
-            await _cache.SetStringAsync(cacheKey, serializeData, new DistributedCacheEntryOptions
+            // Cache’e ekleme
+            var serializedResult = JsonConvert.SerializeObject(result);
+            await _cache.SetStringAsync(cacheKey, serializedResult, new DistributedCacheEntryOptions
             {
                 AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(3)
             });
+
+            await _logService.LogAsync("ProductService", "INFO", "Product list cached successfully.");
             return result;
         }
-
     }
 }

@@ -21,11 +21,17 @@ namespace ThirdTask.WebUI.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var token = HttpContext.Session.GetString("JWToken");
+            string username = "";
             if (!string.IsNullOrEmpty(token))
             {
                 client.DefaultRequestHeaders.Authorization =
                     new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+
+                var handler = new JwtSecurityTokenHandler();
+                var jwtToken = handler.ReadJwtToken(token);
+                username = jwtToken.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
             }
+            ViewBag.Username = username;
             var responseMessage = await client.GetAsync("http://127.0.0.1:6000/services/product");
             if(responseMessage.IsSuccessStatusCode)
             {
@@ -40,11 +46,17 @@ namespace ThirdTask.WebUI.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var token = HttpContext.Session.GetString("JWToken");
+            string username = "";
             if (!string.IsNullOrEmpty(token))
             {
                 client.DefaultRequestHeaders.Authorization =
                     new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+
+                var handler = new JwtSecurityTokenHandler();
+                var jwtToken = handler.ReadJwtToken(token);
+                username = jwtToken.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
             }
+            ViewBag.Username = username;
             var responseMessage = await client.GetAsync("http://127.0.0.1:6000/services/product/" + id);
             if (responseMessage.IsSuccessStatusCode)
             {
@@ -60,6 +72,7 @@ namespace ThirdTask.WebUI.Controllers
             var client = _httpClientFactory.CreateClient();
             var token = HttpContext.Session.GetString("JWToken");
             string role = "";
+            string username = "";
             if (!string.IsNullOrEmpty(token))
             {
                 client.DefaultRequestHeaders.Authorization =
@@ -71,7 +84,9 @@ namespace ThirdTask.WebUI.Controllers
                 role = jwtToken.Claims
                 .FirstOrDefault(c => c.Type == "role" ||
                 c.Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/role")?.Value;
+                username = jwtToken.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
             }
+            ViewBag.Username = username;
             if (role == "Writer")
                 return View();
             if(role == "Reader")
@@ -85,6 +100,7 @@ namespace ThirdTask.WebUI.Controllers
             var client = _httpClientFactory.CreateClient();
             var token = HttpContext.Session.GetString("JWToken");
             string role = "";
+            string username = "";
             if (!string.IsNullOrEmpty(token))
             {
                 client.DefaultRequestHeaders.Authorization =
@@ -96,7 +112,9 @@ namespace ThirdTask.WebUI.Controllers
                 role = jwtToken.Claims
                 .FirstOrDefault(c => c.Type == "role" ||
                 c.Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/role")?.Value;
+                username = jwtToken.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
             }
+            ViewBag.Username = username;
             var jsonData = JsonConvert.SerializeObject(model);
             StringContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
             var responseMessage = await client.PostAsync("http://127.0.0.1:6000/services/product", content);
@@ -120,6 +138,7 @@ namespace ThirdTask.WebUI.Controllers
             var client = _httpClientFactory.CreateClient();
             var token = HttpContext.Session.GetString("JWToken");
             string role = "";
+            string username = "";
             if (!string.IsNullOrEmpty(token))
             {
                 client.DefaultRequestHeaders.Authorization =
@@ -131,7 +150,9 @@ namespace ThirdTask.WebUI.Controllers
                 role = jwtToken.Claims
                 .FirstOrDefault(c => c.Type == "role" ||
                 c.Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/role")?.Value;
+                username = jwtToken.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
             }
+            ViewBag.Username = username;
             var responseMessage = await client.GetAsync("http://127.0.0.1:6000/services/product/" + id);
             if (responseMessage.IsSuccessStatusCode && role == "Writer")
             {
@@ -155,6 +176,7 @@ namespace ThirdTask.WebUI.Controllers
             var client = _httpClientFactory.CreateClient();
             var token = HttpContext.Session.GetString("JWToken");
             string role = "";
+            string username = "";
             if (!string.IsNullOrEmpty(token))
             {
                 client.DefaultRequestHeaders.Authorization =
@@ -166,7 +188,9 @@ namespace ThirdTask.WebUI.Controllers
                 role = jwtToken.Claims
                 .FirstOrDefault(c => c.Type == "role" ||
                 c.Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/role")?.Value;
+                username = jwtToken.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
             }
+            ViewBag.Username = username;
             var jsonData = JsonConvert.SerializeObject(model);
             StringContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
             var responseMessage = await client.PutAsync("http://127.0.0.1:6000/services/product", content);
@@ -190,6 +214,7 @@ namespace ThirdTask.WebUI.Controllers
             var client = _httpClientFactory.CreateClient();
             var token = HttpContext.Session.GetString("JWToken");
             string role = "";
+            string username = "";
             if (!string.IsNullOrEmpty(token))
             {
                 client.DefaultRequestHeaders.Authorization =
@@ -201,7 +226,9 @@ namespace ThirdTask.WebUI.Controllers
                 role = jwtToken.Claims
                 .FirstOrDefault(c => c.Type == "role" ||
                 c.Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/role")?.Value;
+                username = jwtToken.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
             }
+            ViewBag.Username = username;
             var responseMessage = await client.DeleteAsync("http://127.0.0.1:6000/services/product/" + id);
             if (responseMessage.IsSuccessStatusCode && role == "Writer")
             {

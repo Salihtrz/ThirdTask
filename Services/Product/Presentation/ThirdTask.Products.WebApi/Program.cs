@@ -5,8 +5,10 @@ using System.Text;
 using System.Threading.RateLimiting;
 using ThirdTask.Jwt.Tools;
 using ThirdTask.Products.Application.Features.CQRS.Handlers.ProductHandlers;
+using ThirdTask.Products.Application.GlobalExceptions.Exceptions;
 using ThirdTask.Products.Application.Interfaces;
 using ThirdTask.Products.Application.RabbitMQ;
+using ThirdTask.Products.Application.Services;
 using ThirdTask.Products.Persistence.Context;
 using ThirdTask.Products.Persistence.Repositories;
 
@@ -69,6 +71,7 @@ builder.Services.AddScoped<CreateProductCommandHandler>();
 builder.Services.AddScoped<UpdateProductCommandHandler>();
 builder.Services.AddScoped<RemoveProductCommandHandler>();
 builder.Services.AddSingleton<IEventPublisher, RabbitMqEventPublisher>();
+builder.Services.AddHttpClient<ILogService, LogService>();
 
 builder.Services.AddStackExchangeRedisCache(options =>
 {
@@ -78,6 +81,7 @@ builder.Services.AddStackExchangeRedisCache(options =>
 var app = builder.Build();
 
 app.UseRateLimiter();
+app.UseMiddleware<ErrorHandlerMiddleware>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

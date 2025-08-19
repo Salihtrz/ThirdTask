@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Reflection;
 using System.Text;
+using ThirdTask.Auth.Application.Exceptions;
 using ThirdTask.Auth.Application.Interfaces;
 using ThirdTask.Auth.Application.RabbitMQ;
 using ThirdTask.Auth.Application.Services;
@@ -51,6 +52,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IRoleService, RoleService>();
+builder.Services.AddHttpClient<ILogService, LogService>();
 builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<authContext>().AddDefaultTokenProviders();
 builder.Services.AddHostedService<ProductCreatedEventConsumer>();
@@ -60,6 +62,8 @@ builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+app.UseMiddleware<ErrorHandlerMiddleware>();
 
 using var scope = app.Services.CreateScope();
 var roleService = scope.ServiceProvider.GetRequiredService<IRoleService>();

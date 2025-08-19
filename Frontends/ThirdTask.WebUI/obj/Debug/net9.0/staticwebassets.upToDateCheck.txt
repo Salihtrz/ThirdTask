@@ -206,7 +206,7 @@ wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.svg
 wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.ttf
 wwwroot\Dashboard\html\forms\font-awesome\fonts\fontawesome-webfont.woff
 wwwroot\Dashboard\html\forms\layouts.html
-wwwroot\Dashboard\html\logo\SecondTaskLogo.png
+wwwroot\Dashboard\html\logo\ThirdTaskLogo.png
 wwwroot\Dashboard\html\pages\assets\css\bootstrap.css
 wwwroot\Dashboard\html\pages\assets\css\bootstrap.css.map
 wwwroot\Dashboard\html\pages\assets\css\bootstrap.min.css
