@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3033796-1BC7-490F-9F6B-B1BE18725AAC}|Frontends\\ThirdTask.WebUI\\ThirdTask.WebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\frontends\\thirdtask.webui\\views\\error\\pagenotfound404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3033796-1BC7-490F-9F6B-B1BE18725AAC}|Frontends\\ThirdTask.WebUI\\ThirdTask.WebUI.csproj|solutionrelative:frontends\\thirdtask.webui\\views\\error\\pagenotfound404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3033796-1BC7-490F-9F6B-B1BE18725AAC}|Frontends\\ThirdTask.WebUI\\ThirdTask.WebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\frontends\\thirdtask.webui\\views\\error\\forbidden403.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3033796-1BC7-490F-9F6B-B1BE18725AAC}|Frontends\\ThirdTask.WebUI\\ThirdTask.WebUI.csproj|solutionrelative:frontends\\thirdtask.webui\\views\\error\\forbidden403.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageNotFound404.cshtml",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Frontends\\ThirdTask.WebUI\\Views\\Error\\PageNotFound404.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\ThirdTask.WebUI\\Views\\Error\\PageNotFound404.cshtml",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Frontends\\ThirdTask.WebUI\\Views\\Error\\PageNotFound404.cshtml",
+              "RelativeToolTip": "Frontends\\ThirdTask.WebUI\\Views\\Error\\PageNotFound404.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T09:34:10.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forbidden403.cshtml",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Frontends\\ThirdTask.WebUI\\Views\\Error\\Forbidden403.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\ThirdTask.WebUI\\Views\\Error\\Forbidden403.cshtml",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Frontends\\ThirdTask.WebUI\\Views\\Error\\Forbidden403.cshtml",
+              "RelativeToolTip": "Frontends\\ThirdTask.WebUI\\Views\\Error\\Forbidden403.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T09:06:21.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

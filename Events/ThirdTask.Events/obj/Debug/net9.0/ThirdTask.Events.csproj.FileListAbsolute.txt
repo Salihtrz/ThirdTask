@@ -1,0 +1,12 @@
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\bin\Debug\net9.0\ThirdTask.Events.deps.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\bin\Debug\net9.0\ThirdTask.Events.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\bin\Debug\net9.0\ThirdTask.Events.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ThirdTask.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ThirdTask.Events.AssemblyInfoInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ThirdTask.Events.AssemblyInfo.cs
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ThirdTask.Events.csproj.CoreCompileInputs.cache
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ThirdTask.Events.sourcelink.json
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ThirdTask.Events.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\refint\ThirdTask.Events.dll
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ThirdTask.Events.pdb
+C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Events\ThirdTask.Events\obj\Debug\net9.0\ref\ThirdTask.Events.dll
