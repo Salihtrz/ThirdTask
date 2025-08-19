@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aUh3XMD4siHQ4sdEk8CO7qHumMFseVq81tS/3L52PpY=",
+  "Source": "ThirdTask.Auth.WebApi",
+  "BasePath": "_content/ThirdTask.Auth.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

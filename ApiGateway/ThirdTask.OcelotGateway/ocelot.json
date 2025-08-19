@@ -1,0 +1,81 @@
+{
+  "Routes": [
+    // Auth/Login
+    {
+      "DownstreamPathTemplate": "/api/login/login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6010
+        }
+      ],
+      "UpstreamPathTemplate": "/services/auth/login",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {}
+    },
+    // Auth/Register
+    {
+      "DownstreamPathTemplate": "/api/register",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6010
+        }
+      ],
+      "UpstreamPathTemplate": "/services/auth/register",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {}
+    },
+    // Auth/RefreshToken
+    {
+      "DownstreamPathTemplate": "/api/login/refresh",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6010
+        }
+      ],
+      "UpstreamPathTemplate": "/services/auth/refresh",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {}
+    },
+    // Product
+    {
+      "DownstreamPathTemplate": "/api/Product/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6011
+        }
+      ],
+      "UpstreamPathTemplate": "/services/product/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "UpstreamScheme": "http",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    // Log
+    {
+      "DownstreamPathTemplate": "/api/logs",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6012
+        }
+      ],
+      "UpstreamPathTemplate": "/services/logs",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {}
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:6000"
+  }
+}
