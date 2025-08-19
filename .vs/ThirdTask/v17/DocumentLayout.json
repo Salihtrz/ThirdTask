@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0230C4B-73FF-4A48-9224-50E6EB888035}|Services\\Auth\\Core\\ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\thirdtask\\services\\auth\\core\\thirdtask.auth.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0230C4B-73FF-4A48-9224-50E6EB888035}|Services\\Auth\\Core\\ThirdTask.Auth.Application\\ThirdTask.Auth.Application.csproj|solutionrelative:services\\auth\\core\\thirdtask.auth.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\Auth\\Core\\ThirdTask.Auth.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\Core\\ThirdTask.Auth.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\ThirdTask\\Services\\Auth\\Core\\ThirdTask.Auth.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\Auth\\Core\\ThirdTask.Auth.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:16:51.724Z",
+              "EditorCaption": ""
             }
           ]
         }

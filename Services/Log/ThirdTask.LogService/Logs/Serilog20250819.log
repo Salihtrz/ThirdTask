@@ -1508,3 +1508,205 @@
 [2025-08-19 12:33:56.769 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.2538ms
 [2025-08-19 12:33:56.769 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
 [2025-08-19 12:33:56.769 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 0.8369ms
+[2025-08-19 12:45:46.228 +03:00 INF] Now listening on: http://localhost:6012
+[2025-08-19 12:45:46.416 +03:00 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-19 12:45:46.417 +03:00 INF] Hosting environment: Development
+[2025-08-19 12:45:46.417 +03:00 INF] Content root path: C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\Log\ThirdTask.LogService
+[2025-08-19 12:45:52.797 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 156
+[2025-08-19 12:45:52.863 +03:00 WRN] Failed to determine the https port for redirect.
+[2025-08-19 12:45:52.869 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:45:52.893 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:45:52.944 +03:00 INF] [LoginController] Login attempt for user 'Mehmet01' started.
+[2025-08-19 12:45:52.949 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:45:52.953 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 56.6302ms
+[2025-08-19 12:45:52.963 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:45:52.967 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 171.8983ms
+[2025-08-19 12:45:53.724 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 149
+[2025-08-19 12:45:53.726 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:45:53.727 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:45:53.728 +03:00 INF] [AuthService] User 'Mehmet01' logged in successfully.
+[2025-08-19 12:45:53.728 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:45:53.729 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 1.5158ms
+[2025-08-19 12:45:53.729 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:45:53.729 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 6.362ms
+[2025-08-19 12:45:53.753 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 151
+[2025-08-19 12:45:53.754 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:45:53.754 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:45:53.755 +03:00 INF] [LoginController] Login successful for user 'Mehmet01'.
+[2025-08-19 12:45:53.755 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:45:53.755 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.4392ms
+[2025-08-19 12:45:53.755 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:45:53.755 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 2.6623ms
+[2025-08-19 12:46:01.412 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 132
+[2025-08-19 12:46:01.413 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:01.413 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:46:01.414 +03:00 INF] [LoginController] Refresh token attempt started.
+[2025-08-19 12:46:01.414 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:46:01.414 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.8456ms
+[2025-08-19 12:46:01.414 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:01.414 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 2.1594ms
+[2025-08-19 12:46:01.531 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 154
+[2025-08-19 12:46:01.531 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:01.532 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:46:01.533 +03:00 INF] [AuthService] Refresh token generated for user 'Mehmet01'.
+[2025-08-19 12:46:01.533 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:46:01.533 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.849ms
+[2025-08-19 12:46:01.533 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:01.533 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 2.4373ms
+[2025-08-19 12:46:01.555 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 128
+[2025-08-19 12:46:01.556 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:01.556 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:46:01.556 +03:00 INF] [LoginController] Refresh token successful.
+[2025-08-19 12:46:01.556 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:46:01.556 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.3025ms
+[2025-08-19 12:46:01.556 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:01.556 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 0.8773ms
+[2025-08-19 12:46:19.552 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 135
+[2025-08-19 12:46:19.553 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:19.553 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:46:19.554 +03:00 INF] [ProductAPI] GET /api/product called by anonymous
+[2025-08-19 12:46:19.554 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:46:19.555 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 1.0676ms
+[2025-08-19 12:46:19.555 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:19.555 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 2.6008ms
+[2025-08-19 12:46:19.950 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 161
+[2025-08-19 12:46:19.950 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:19.951 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:46:19.951 +03:00 WRN] [ProductService] CACHE MISS: Product list will be fetched from database.
+[2025-08-19 12:46:19.951 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:46:19.951 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.7443ms
+[2025-08-19 12:46:19.951 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:19.952 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 1.5656ms
+[2025-08-19 12:46:21.730 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 136
+[2025-08-19 12:46:21.730 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:21.730 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:46:21.731 +03:00 INF] [ProductService] Product list cached successfully.
+[2025-08-19 12:46:21.731 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:46:21.731 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.2928ms
+[2025-08-19 12:46:21.731 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:21.731 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 1.0623ms
+[2025-08-19 12:46:21.752 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 135
+[2025-08-19 12:46:21.752 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:21.753 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 12:46:21.761 +03:00 INF] [ProductAPI] GET /api/product completed in 2372 ms
+[2025-08-19 12:46:21.761 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 12:46:21.761 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 4.5174ms
+[2025-08-19 12:46:21.761 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 12:46:21.761 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 9.3741ms
+[2025-08-19 13:30:28.655 +03:00 INF] Now listening on: http://localhost:6012
+[2025-08-19 13:30:29.127 +03:00 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-19 13:30:29.130 +03:00 INF] Hosting environment: Development
+[2025-08-19 13:30:29.131 +03:00 INF] Content root path: C:\Users\muazc\OneDrive\Masaüstü\Proje ve Çalışmalarım\GitHub\ThirdTask\Services\Log\ThirdTask.LogService
+[2025-08-19 14:11:57.812 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 155
+[2025-08-19 14:11:57.866 +03:00 WRN] Failed to determine the https port for redirect.
+[2025-08-19 14:11:57.873 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:11:57.906 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:11:57.974 +03:00 INF] [LoginController] Login attempt for user 'ahmet01' started.
+[2025-08-19 14:11:57.979 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:11:57.984 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 72.342ms
+[2025-08-19 14:11:57.993 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:11:57.998 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 188.7112ms
+[2025-08-19 14:11:58.735 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 148
+[2025-08-19 14:11:58.737 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:11:58.747 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:11:58.748 +03:00 INF] [AuthService] User 'ahmet01' logged in successfully.
+[2025-08-19 14:11:58.749 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:11:58.749 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 2.43ms
+[2025-08-19 14:11:58.749 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:11:58.750 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 15.184ms
+[2025-08-19 14:11:58.800 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 150
+[2025-08-19 14:11:58.802 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:11:58.802 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:11:58.803 +03:00 INF] [LoginController] Login successful for user 'ahmet01'.
+[2025-08-19 14:11:58.803 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:11:58.803 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.4198ms
+[2025-08-19 14:11:58.803 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:11:58.803 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 2.9658ms
+[2025-08-19 14:12:24.411 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 135
+[2025-08-19 14:12:24.412 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:24.412 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:12:24.412 +03:00 INF] [ProductAPI] GET /api/product called by anonymous
+[2025-08-19 14:12:24.412 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:12:24.412 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.5487ms
+[2025-08-19 14:12:24.412 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:24.413 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 32.402ms
+[2025-08-19 14:12:24.790 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 161
+[2025-08-19 14:12:24.791 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:24.791 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:12:24.792 +03:00 WRN] [ProductService] CACHE MISS: Product list will be fetched from database.
+[2025-08-19 14:12:24.792 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:12:24.792 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.6356ms
+[2025-08-19 14:12:24.792 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:24.792 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 1.6746ms
+[2025-08-19 14:12:26.042 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 136
+[2025-08-19 14:12:26.042 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:26.042 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:12:26.043 +03:00 INF] [ProductService] Product list cached successfully.
+[2025-08-19 14:12:26.043 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:12:26.043 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.7332ms
+[2025-08-19 14:12:26.043 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:26.043 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 1.5595ms
+[2025-08-19 14:12:26.060 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 135
+[2025-08-19 14:12:26.060 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:26.060 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:12:26.061 +03:00 INF] [ProductAPI] GET /api/product completed in 1810 ms
+[2025-08-19 14:12:26.061 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:12:26.061 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.308ms
+[2025-08-19 14:12:26.061 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:12:26.061 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 0.9257ms
+[2025-08-19 14:15:16.846 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 156
+[2025-08-19 14:15:16.846 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:16.846 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:15:16.847 +03:00 INF] [LoginController] Login attempt for user 'Mehmet01' started.
+[2025-08-19 14:15:16.847 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:15:16.847 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.6909ms
+[2025-08-19 14:15:16.847 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:16.847 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 1.4602ms
+[2025-08-19 14:15:16.987 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 149
+[2025-08-19 14:15:16.987 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:16.987 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:15:16.988 +03:00 INF] [AuthService] User 'Mehmet01' logged in successfully.
+[2025-08-19 14:15:16.988 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:15:16.988 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.4967ms
+[2025-08-19 14:15:16.988 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:16.988 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 1.2999ms
+[2025-08-19 14:15:17.004 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 151
+[2025-08-19 14:15:17.004 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:17.004 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:15:17.059 +03:00 INF] [LoginController] Login successful for user 'Mehmet01'.
+[2025-08-19 14:15:17.059 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:15:17.059 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 55.1014ms
+[2025-08-19 14:15:17.059 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:17.060 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 55.925ms
+[2025-08-19 14:15:25.658 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 128
+[2025-08-19 14:15:25.658 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.659 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:15:25.659 +03:00 INF] [ProductAPI] DELETE /api/product/11 called
+[2025-08-19 14:15:25.659 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:15:25.659 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.2678ms
+[2025-08-19 14:15:25.659 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.659 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 0.7028ms
+[2025-08-19 14:15:25.955 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 160
+[2025-08-19 14:15:25.955 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.955 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:15:25.955 +03:00 INF] [ProductService] Product 'test10' (ID 11) deleted from database.
+[2025-08-19 14:15:25.955 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:15:25.955 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.499ms
+[2025-08-19 14:15:25.955 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.955 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 0.9852ms
+[2025-08-19 14:15:25.981 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 159
+[2025-08-19 14:15:25.981 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.981 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:15:25.982 +03:00 WRN] [ProductService] Cache invalidated for product list and product ID 11.
+[2025-08-19 14:15:25.982 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:15:25.982 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.4197ms
+[2025-08-19 14:15:25.982 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.982 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 1.0173ms
+[2025-08-19 14:15:25.998 +03:00 INF] Request starting HTTP/1.1 POST http://localhost:6012/api/logs - application/json; charset=utf-8 130
+[2025-08-19 14:15:25.999 +03:00 INF] Executing endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.999 +03:00 INF] Route matched with {action = "CreateLog", controller = "Logs"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateLog(ThirdTask.LogService.Models.LogEntry) on controller ThirdTask.LogService.Controllers.LogsController (ThirdTask.LogService).
+[2025-08-19 14:15:25.999 +03:00 INF] [ProductAPI] Product 11 deleted successfully
+[2025-08-19 14:15:25.999 +03:00 INF] Executing StatusCodeResult, setting HTTP status code 200
+[2025-08-19 14:15:25.999 +03:00 INF] Executed action ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService) in 0.228ms
+[2025-08-19 14:15:25.999 +03:00 INF] Executed endpoint 'ThirdTask.LogService.Controllers.LogsController.CreateLog (ThirdTask.LogService)'
+[2025-08-19 14:15:25.999 +03:00 INF] Request finished HTTP/1.1 POST http://localhost:6012/api/logs - 200 0 null 0.6594ms

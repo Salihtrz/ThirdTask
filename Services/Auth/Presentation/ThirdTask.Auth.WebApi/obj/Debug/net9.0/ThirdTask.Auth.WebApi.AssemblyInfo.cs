@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThirdTask.Auth.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e159bf209e86e81c70b0d9a1cbab682f5e6bdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a556c2c0a2be11401d3b32242300dfb1c29cc742")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThirdTask.Auth.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThirdTask.Auth.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
